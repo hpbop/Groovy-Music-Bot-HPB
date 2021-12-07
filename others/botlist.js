@@ -17,11 +17,7 @@ module.exports = {
     //send the botlist embed
     message.reply(new MessageEmbed().setColor("#F0EAD6")
     .setTitle("Here is a list for all Bot-Lists this Bot is on!")
-   .addField("top.gg", "https://top.gg/bot/767885987740254291")
-    .addField("Matrixbots","https://www.matrixbots.xyz/bots/767885987740254291/")
-    .addField("bots.ondiscord","https://bots.ondiscord.xyz/bots/767885987740254291")
-    .addField("discordbotlist","https://discordbotlist.com/bots/harmony")
-    .addField("discordextremelist","https://discordextremelist.xyz/en-US/bots/767885987740254291")
+    .addField("discordbotlist","https://discordbotlist.com/bots/unique-music-4008")
     );
 
   }
